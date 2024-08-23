@@ -1,0 +1,10 @@
+   1785
+    452 README.rst
+    148 CHANGELOG.rst
+    118 setup.py
+    117 httpie/cli.py
+    108 httpie/client.py
+    105 httpie/core.py
+    105 httpie/__init__.py
+    102 docs/README.md
+    100 tests/tests.py

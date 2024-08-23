@@ -1,0 +1,7 @@
+$ git log --format='%aN' | sort -u | tee users.txt                                        #Nome de usuários em arquivo txt
+$ git log --pretty=format:"%ae" | sort | uniq                                             #Email dos usuários
+$ git log --format="%aD" | tail -1 #Idade do código                                       #Data de criação do repo
+$ git shortlog -sn --email --no-merges | head -n 20 | tee users-commit.txt                #Commits por usuários
+$ git log --pretty=format: --name-only | sort | uniq -c | sort -nr | head -10 | tee file  #Arquivos mais ativos do diretório httpie
+$ git log --shortstat --pretty="%H" --since="1 year ago"  --no-merges | awk '/files changed/ {inserted+=$4; deleted+=$6} END {print "Inserções: " inserted "\nExclusões: " deleted}'  #Inclusões e exclusões
+$ git log --pretty=format: --name-only --no-merges | sort | uniq -c | sort -nr | head -20 | tee files-churn.txt  #Arquivos com mais mudanças

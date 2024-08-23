@@ -1,0 +1,20 @@
+   1678
+    452 README.rst
+    148 CHANGELOG.rst
+    118 setup.py
+    117 httpie/cli.py
+    108 httpie/client.py
+    105 httpie/core.py
+    105 httpie/__init__.py
+    102 docs/README.md
+    100 tests/tests.py
+     95 httpie/input.py
+     77 CHANGELOG.md
+     70 httpie/sessions.py
+     66 httpie/downloads.py
+     65 httpie/models.py
+     62 .travis.yml
+     60 tests/test_output.py
+     60 tests/test_httpie.py
+     58 tests/test_sessions.py
+     55 httpie/cli/definition.py

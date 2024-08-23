@@ -1,0 +1,20 @@
+   618  Jakub Roztocil <jakub@roztocil.co>
+   454  Jakub Roztocil <jakub@roztocil.name>
+   148  Batuhan Taskaya <isidentical@gmail.com>
+   103  Mickaël Schoentgen <contact@tiger-222.fr>
+    35  Jakub Roztočil <jakub@roztocil.name>
+    18  Jakub Roztočil <jakub@roztocil.name>
+    13  Jakub Roztočil <jakub@roztocil.co>
+    12  Marc Abramowitz <marc@marc-abramowitz.com>
+    11  Miro Hrončok <miro@hroncok.cz>
+    11  Nicolas Beltran <nb2838@columbia.edu>
+    11  dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+     7  Jake Basile <jakebasile@me.com>
+     6  Matthias Lehmann <ml@qsensei.com>
+     6  Nathan LaFreniere <quitlahok@gmail.com>
+     6  Vladimir Berkutov <dair.targ@gmail.com>
+     5  Jakob Kramer <jakob.kramer@gmx.de>
+     4  Alen Mujezinovic <flashingpumpkin@gmail.com>
+     4  Chris Faulkner <thefaulkner@gmail.com>
+     4  Corey Farwell <coreyf@rwell.org>
+     4  Davorin Šego <davorin.sego@gmail.com>
