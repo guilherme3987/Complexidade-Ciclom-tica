@@ -1,4 +1,4 @@
-   1678
+   Total: 1678
     452 README.rst
     148 CHANGELOG.rst
     118 setup.py
