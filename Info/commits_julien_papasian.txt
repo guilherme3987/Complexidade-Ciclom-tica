@@ -1,0 +1,1062 @@
+bf7fac7b8 Post-translation update
+adee255cb Translated using Weblate (Dutch)
+308093d6d Translated using Weblate (Japanese)
+e46d957fc Post-translation update
+3a0ffc243 [ECCC] Fix empty current wind direction
+faba4611b [Open-Meteo] Fix values precipitation nowcasting
+349e0a45f Update Vico
+0a14dfcbc Fix #1256 fix #1255 - show precip prob > 0 %
+cbad69c9e Post-translation update
+d7007719a Translated using Weblate (Esperanto)
+785f67b97 Update dependencies
+807202154 Fix French translation
+878b6ba2f New cycle
+ea0a27f94 Actually fix workflow
+498f7a384 Fix workflow
+096828853 Update dependencies
+8b0c11e11 Post-translation update
+b0b2d8762 Update changelog
+403de890e Update changelog
+e42458bf5 Update Vico
+2a0c6b755 Post-translation update
+653b89b8f Fix #1233 - nowcasting mm/min -> mm/h
+6dfa3a633 Update changelog
+39bb1e6df Fix prompt for background location permission not being shown
+a89133c38 Revert a few redundancies
+8ad806cb2 Update changelog
+a1a919ef1 Update changelog
+6bb07607e Post-translation update
+25297c219 Update changelog
+dc1808121 Post-translation update
+7154c7c88 Update Vico
+bd39433dc [Baidu] Throw "API unauthorized" when
+29b2162fa Add normals in daily detailed view
+e0f0550d8 Update privacy policy
+98ce412ba Add check for updates feature to privacy policy
+bdfa774bd [Android 10+] Disable day/night mode for locations by default
+6f2fe0a07 New cycle
+a0a1cadc1 Update dependencies
+b643be860 Post-translation update
+8aa10c7c8 Translation
+30c080ded Fix #1173
+ef30f6109 Use the word libre rather than free to avoid confusion
+ec7ae349d Move update check at the beginning because if it fails because of a fix in a new release, user won’t be notified
+b01768a0e Suggest enabling app update check
+752225ac8 Reorganize
+912fafaaa Add app update check at the end of the manual weather refresh process
+01f9d3f87 Replace long screenshot with individual screenshots from fastlane
+e5149e61b Tweak translations
+e2eab5ecf Update changelog
+f6eefbaee Post-translation update
+24f789889 Add update checker
+fb087c61c Add radar to the list of features that will not be implemented
+4e022e36a Post-translation update
+725131591 Fix non-translatable strings
+0c896d253 Missing credits
+26a2d17fc Update dependencies
+e65da3e0d Post-translation update
+13e547dad Update changelog
+e0dc64ae9 [AccuWeather] Fix Hebrew
+e3a3ffe7c [IMS] Fix text not being in Hebrew when selected language is Hebrew
+09be01ebd Update dependencies
+9cf990c35 New cycle
+f06f323bf Translated using Weblate (Romanian)
+af6555f3b Translated using Weblate (Esperanto)
+381ddf32b Improve wind chill computing
+e83baf466 Fix #1126 - Sun/moon workaround for wrong data from sources
+818cae496 Quick dirty fix for Open-Meteo failure to refresh when using two models
+e1ee89753 Add Météo-France as possible secondary normals source in France
+d1f883c59 Translated using Weblate (Esperanto)
+c8e9f8eab Complete #1134 fix
+db271e34f Post-translation update
+2126f1d9c Complete fix for #1107
+2dd6f6ef6 Update changelog
+d571be129 Fix #1137 - [NWS] Parsing issues with probability of thunder
+f2a7c0568 Fix #1133 - Hourly feels like fix
+595c69322 Update dependencies
+207bc1374 Post-translation update
+84ab3f70a Make CWA source more Kotlin-like and less unsafe
+9b5601c59 Help troubleshooting sun/moon in debug builds
+3bb4cbd2c Also lock discussions
+ddb74d945 Update AGP
+71336197f Fix #1124 - Day shift on some sources
+173d171a3 Post-translation update
+432201934 Fix locale formatting for China source
+9ecdb0a68 Update changelog
+86e0a52da Fix #1116 - Add more documentation to the sun/moon section
+7ddb84a9b Fix #1089 - Add one more decimal precision to the following pressure units: inHg, atm, kgf/cm²
+9aab4bc7c Post-translation update
+82b055381 Fix wrong category of UV in some cases
+5f48cd419 [ECCC] Fix crash on midnight sun locations
+c5c0242cc Move update consumption out of translation strings so we can update if needed
+374bdb1ab Post-translation update
+b5a00b0ed Update dependencies
+ad83a6c41 Post-translation update
+02253a9f7 Translated using Weblate (Catalan)
+a45a2edb5 Translated using Weblate (Bengali)
+44f614c42 New cycle
+6b57df9d7 Update Gradle
+b97ee3327 Post-translation update
+4941cfff0 Update dependencies
+7ba3a4813 Avoid NaN values everywhere when using average()
+e5e6e4f57 Translated using Weblate (Dutch)
+b8d74cbb3 Post-translation update
+f419304b0 Rely on const values for double tap on back button calculation
+c91223014 Update dependencies
+9f2b5d033 Update dependencies
+5c926e995 Post-translation update
+9d709e642 Fix line breaks for Izzy
+390624ff8 Update dependencies
+8175259a2 Cleanup unused imports
+5ec37f1d5 Clean up date calculation and lists
+89bb33401 Update changelog
+9bf4cec65 Reorganize location list
+c1e4ad160 Reorganize location list screen
+60933c15d Update changelog
+1825b8d51 Update dependencies
+08738a7bd Post-translation update
+36be362a1 Reflect changes
+b377d68db New cycle
+47eb87fec Update changelog
+63d5cec05 Post-translation update
+6d656cbee Translated using Weblate (Bengali)
+26aff7e48 Add faq about reverse geocoding
+faa09dd13 Update dependencies
+52af28b15 Update changelog
+7f3db289f Post-translation update
+b467476d2 Merge branch 'weblate-weblate-breezy-weather-breezy-weather-android'
+335622a75 Fix precipitation values on some sources
+b8bc61532 Post-translation update
+da84d4353 [Open-Meteo] Allow to select “GFS GraphCast” model individually
+35e4d03e4 [AccuWeather] Prevent incompatible settings
+8955a2890 New cycle
+a44106154 Actually cap to 60 Hz
+eaadfed72 Reduce battery consumption of live wallpaper on screens with high refresh rate
+f89264f38 [Pirate Weather] Fix fail to refresh due to server changes
+1b5c2ac16 Post-translation update
+a86b822d7 Post-translation update
+d43b3da3c Translated using Weblate (Tamil)
+61e79db85 [GeoSphere AT] Fix #1002 - Wrong precipitation values
+af921b6a5 Fix F-Droid reproducible builds
+4103c8dcd New cycle
+b82786dc2 Update changelog
+4e0f9e792 Cleanup
+1c18d55a0 Typo
+5ecd0dd79 Post-translation update
+9e37bf85e Post-translation update
+01a01adf9 Fix sun/moon not showing when setting the day after
+fd3beb35f Post-translation update
+322026393 Translation updates
+fb58c0390 Add Git SHA
+94a7e5a8c Update FAQ
+3d05efbac Add automatic comments
+f0baddc64 Fix #171 - Add refresh error triggers for debug build
+01f6c25ae Update dependencies
+e7d7bee2f Print refresh error in English in the logs
+1375e79a3 Move "Edit" location button to the top as an icon
+476a4b8ee Remove undecided label as we move to discussions first
+3a1ffbea6 Post-translation update
+9da7eada3 Fix #944 - Don’t send notifications for minor alerts
+1193060b1 Update templates
+2a67a46d1 Update source documentation
+ceaad3f19 Update Gradle wrapper
+432606cb5 Post-translation update
+d3c03838f Fix crash in Gadgetbrdige
+5acb36ad2 Update Vico
+d52af9160 Fix chinese calendar formatting
+9d1f0402a Add release date
+077cc0e66 Update docs for v5.2.0
+7dbeee26c Fix #782 - Add pollen keyword for widgets
+28af026da [Widgets] Fix crash on Android < 12 when using analog clock
+dfaeaf342 OpenWeather: Add note about custom API keys
+8ab0748aa Post-translation update
+0adc935fb [OpenWeather] Implement current endpoint
+27d4c9dec Add back OpenWeather through a different endpoint
+bb324b359 [OpenWeather] Bring back air pollution endpoint
+9a15ba421 Cleanup
+08cb3d510 Adjust precipitation values
+a122b805f Link to relevant issue
+6e4d2e134 Simplify src directories
+61993ac5b Translation adjustment
+0cc366040 Rename fdroid > freenet flavor, remove gplay flavor
+1fd5ce58e Bring native Fused to Android location source
+75b77b117 Implement Gadgetbridge WeatherSecondaryJson
+c44b00fe9 Post-translation update
+a960ffed4 Deprecate OpenWeatherMap
+54130e172 Translation improvements
+8efd40dc6 Replace Gradle action
+7d27c11aa Add alternative for donations
+503a3bd59 Update changelog
+52ec05425 Fix live wallpaper refresh rate
+86bba8b93 Let’s make next version a major one
+cab011f0c Update changelog
+20e8c8840 Remove old precipitation chart
+a38fd90b1 Replace precipitation nowcasting chart with Vico lib
+51dad3494 Backport translation changes from better_charts branch
+f6a7233ba Add "Server unavailable" error + fix sensor queried when disabled, fix #833
+840c13bb0 Back to 3 flavors
+edfa07f5f Use microG lib for Google Fused, split
+fe954aa1f Fix #921
+abea97fe5 Add more features that will not be implemented
+816a7a19d Update templates
+9ee530aa6 Format
+51285b6b6 Update contribution section
+934cbc6b0 Post-translation update
+28b2140ea Translated using Weblate (Estonian)
+0b339850f Update Android Gradle Plugin
+571dd0078 Update Weblate chart
+97d7a215a Add warning when setting refresh rate to Never
+e669021a0 Wording
+8454aa1c7 Gadgetbridge: Add No packages found if relevant
+2766c446c Push translations that will be used later
+06f4591de Post-translation update
+f6eb22918 Remove duplicate translation
+515481f9d Update AboutLib
+886b31b8f Add alternate calendars, fix #807 fix #373
+266561f2b Replace LunarCalendar lib with ChineseCalendar on Android >= 7.0
+20e45bad0 Fix cancel adding packages
+d618246d9 Add missing French translation
+e35673692 Post-translation updat
+015c1decc Gadgetbridge select apps + complete GeoSphere AT, fix #763 fix #828
+0c75aee34 Post-translation update
+031ffd2a2 Refresh secondary locations once a day when used
+4ced62592 [GeoSphere AT] Add hourly weather code + apply bbox as main source
+e941b33ee Optimize image
+8763ab1f1 Move link
+87b3fb83d Add F-Droid default repo
+7cebe2a3b Turn off background updates by default on debug build
+fee5025ee Post-translation update
+5169b19df Post-translation update
+d92889d83 Fix #897 - Wrong temperature on daily feels like chart
+56934ebc0 Update Compose
+dc7c76970 Update keyboard workaround code
+f2809b7d2 Post-translation update
+89d47ffed Fix #891 - Material You Current resizing issues
+d3bde1bfe Post-translation update
+4728bdc82 [Widgets] Material You Current - Add preview
+82ae2385d Wording
+7607e9aac Post-translation update
+84f9e896a Various fixes and cleanup - Fix #181 fix #270 fix #268 fix #338 fix #109
+1685b43e9 [GeoSphere AT] More progress
+667402f11 [GeoSphere AT] Add bbox for some later endpoints
+1c97bddba [GeoSphere AT] Add more data
+15500227e Typo
+3b9b70e2a WIP GeoSphere Austria
+360ae6868 Fix #865 - Add source of alert
+a97625b4f Fix dead link
+dca42b3b9 Make timeZone optional on old date formatter
+948dab76d Add instructions about preferred repos
+bb9054c61 Make location optional for some date functions
+ab04306cd Post-translation update
+e8e51aa15 Clean up
+09dc4c6dc Avoid updating widgets/notifications/gadgets when not needed
+37d2aa7be Initialize all locations with weather immediately
+1d45dd81a [Open-Meteo] Fix DST issues - fix #543 fix #872
+2771d9056 Fix #870 - TimeZone issue on current location when travelling
+f2741755d Fix tap on Material You Current widget
+7df4f2f8b Backport definition of precipitation levels from dev branch
+896718e51 New cycle
+ee0473cc5 Attempt to fix crash on release builds
+a89dcd27b Add WMO SWIC as alert radar source
+899b4fc61 Formatting
+82c6359cf Typo
+0033ac034 Simply instructions
+b69ea8e68 Update default alert colors
+3bdc79bf4 Fix default cards
+0b90baa7e Update install
+f2688fb4c Add precipitation card on customized preferences on update
+4c9c8a947 Revert "Change versionCode management"
+c08f5280c Dedicated card for precipitation nowcast
+a56c862b8 Update Retrofit to v2.11.0
+6e760f7d1 Update WMO SWIC to v3.0
+5de88ba9d Backport a cleanup from chart rework
+a24fd610a Change versionCode management
+230b200a9 Remove outdated translations
+d0034ea14 Fixes for Material You widgets
+807e4012b Backport some precipitation improvements from dev branch
+549661e03 Rename Precipitation minute by minute as Nowcasting
+b0a71037e Typo
+82f195f17 Cleanup
+880ee1694 Fix #532 - Improve per-app language
+adb74d9bf Update Changelog
+e4d3a1e4d Attempt to fix #845
+f4dc3f7a7 Update AboutLib
+7f44bfb34 Lint
+033b4fab0 Add ktlint
+4dcbf55c7 Update dependencies
+0a36fd552 Remove outdated disclaimer
+cb92d0f13 Post-translation update
+43cda0a9f Multiple fixes + custom background per location
+4af682532 Remove this debug line as well
+f34c3f41a Remove commented line for debug purposes
+7c3b8b48d Add new error type
+98045c9a9 New cycle
+b7b42e222 Make the privacy implications of Gadgetbridge data sending more clear
+f9ddd3946 Update disclaimer
+e25ad16d8 Clean up libraries
+4498411cd Replace Retrofit Json serializer with 1st party
+0f7d0cf0d Post-translation update
+16d918a40 Update recommandations for Hong Kong
+53133f403 Alerts: make severity consistant between sources and matching CAP protocol
+c615345d8 Post-translation update
+626d4ae4c Make alerts closer to CAP format + option for self-hosted instances of free-net sources + update dependencies + use versionName in GitHub releases
+1fa89241c Update contributions
+bcf198e8e Add Gradle distributionSha256Sum
+8d90e97a8 Fastlane: make permissions section more concise
+b78a0b294 Fastlane: Replace <strong> with <b>
+9827cb3c2 Make fastlane description shorter
+71a0902f1 Post-translation update
+c728a05c8 Remove proguard rules as per feedback from @obfusk
+ad6a14771 Fix #817 - Fix cypress, hazel and hornbeam
+6a2db666d Allow Gadgetbridge if using Smartspacer
+5640b858a Use ICU for short and medium day/month formatting
+9bffd4f4a Dates: allow to use icu timezone from location
+f98cb9e19 Start deprecating some date-related stuff
+6e1895819 [WMO SWIC] Change name
+792a4d968 Make enum classes getters more reliable
+692e20118 New cycle
+3fd3f3981 Remove beta status
+96ccbbc1c Remove some non-deterministic stuff to allow for reproducible builds
+49e51ef4a [NaturalEarth] Improve detection of small islands/countries
+66ee939e4 Fix #770 - Error when adding location
+87790f2f8 Optimize PNG even more
+42b783840 [WMO] Revert serialize LatLng directly
+564d06a4b [WMO SW] Optimize
+044e3e397 [Translation Fr] Fix
+556c8d398 Don’t show stay informed card if permission already granted
+8946995e4 [ECCC] Fix #786 - Add sunshine duration
+452d0910c Fix #801 - Notification-widget not restored on reboot
+b007fcc26 Tweak translations
+e4f7e8181 Post-translation update
+a13cfc638 [Recosanté] Fix refresh error on Friday
+d72be8d32 [WMO Severe Weather] Initial support as secondary alert source
+148254058 Post-translation update
+29a3c1c51 Translated using Weblate (Hindi)
+d51730786 Post-translation update
+86e2c998e Fix wrong default source for release builds
+4e60fba85 Add repos for Fdroid and Gplay flavors
+86a8d34cf Make background update more efficient + documentation
+599d0d0a5 New cycle
+6bdf121a9 Update dependencies
+40e8d621c Post-translation update
+5f2a8cf0c Open-Meteo weather models bug fixes
+e7d8890fc Fix #781 fix #21 - Open-Meteo model selection
+b05c1685c Add troubleshooting for "Source no longer available" error
+4f3c57f3b Post-translation update
+043780199 Add sunshine chart + fix #755 + cleanup
+083257344 Update Fastlane
+28cb6a9ce Post-translation update
+e3df67665 Fix #776 - Location name changing after being added from search
+6f70d10ac [Open-Meteo][Bright Sky] Add sunshine duration
+0b0d1e988 Cleanup
+ebf1d344a Post-translation update
+f20737510 Cleanup
+010fdf843 Wording
+04948aef5 Add Recosanté to all flavors since it’s open source
+dbf173f9a Post-translation update
+478006fde Don’t show pollens that are always 0 on main screen
+195a6a3ad Update
+50383d965 Update
+8207fa566 Add Julian repo as installation method
+200cc802a Save new pollen types to database
+1bfb5a074 [Recosanté] Add more pollen types
+de472cf37 Add weather sources screen on fdroid flavor now that we have 2 sources
+a0de82ff3 Add Recosanté source + add Bright Sky to fdroid flavor
+e2f589232 2nd fix workflow
+56929015a Fix workflow
+646148dd1 Fix #764
+fc826078e Update recommandations for Ireland
+7cfe03af5 Update changelog
+dc3cf0382 Cleanup non-free assets
+14e88bbf5 Post-translation update
+57f628c36 Update dependencies
+15b2c8eff Fix #753 - Don’t retry refreshing immediately
+2f5fe0efb Post-translation update
+5ba3005a1 QoL - Fix #158 fix #730 fix #737 fix #747
+1eb83717e Make licence instructions easier to understand
+22bcadd2c Add fdroid fastlane
+4b3f92a5c Update changelog
+2e3390ec6 Fix link
+654f48251 Add fdroid flavor
+48ffdd9bb Post-translation update
+362e13462 Attemp to fix crash with expandable text
+64963d6d1 Add support for non-cross-signed Let’s encrypt certificates on Android 7.0-7.1.0
+1e68d0454 [MET IE] Fix 12-hour system issue
+1bfa04e1f Update weather sources list
+00a6d8de9 Fix #733 - Add Israel Meteorological Service
+a006d4695 Fix #670 - [MET IE] Add full alert support
+e44f74586 [MET IE] Add warnings as main source
+d830ca33b [MET IE] Add reverse geocoding
+65e61b2da New cycle
+523c1a8b3 Remove empty and incompatible translations
+7000b2c72 Complete migration of maps-utils to Kotlin
+ee9547178 Fix build and rewrite maps-utils in Kotlin
+16d1def25 Move Maps Utils to dedicated module
+554ce66e8 Add offline country reverse geocoding with Natural Earth public domain data
+78fe0b343 Update changelog
+4efab9f1d Fix trailing dot
+8c63d54a2 Cleanup
+18fc1cd60 Bring back wallpaper auto
+43da18d1b Make weather text computation more consistant
+4572898c7 Fix #718 - Incorrect observation text
+e3bbb327e Fix #711 - Added preference to use specific weather source instead of recommendations for new locations
+997c1df6c New version cycle
+54006b79f Update changelog
+f89e3350b Small improvements and fixes, docs updated, fix #714, fix #704
+bbd08a7de Fix copy-paste in changelog
+00482f6f6 Also fix hourly feels like chart
+dcd5b86ee Revert "Temporarily remove invalid translations"
+4ea3b1fae Temporarily remove invalid translations
+a36c08109 Fix weather source failing in loop
+14655ebac Fix feels like temperature
+9ccb5d804 Fix crash when adding more than 4 or 5 current details
+7ad07e0a5 Bump version
+201676060 Revert "Temporarily remove invalid translations for release"
+1cc0296b2 Temporarily remove invalid translations for release
+ae1da16ca Fix action workflow
+9ec3b9936 Fix tests, remove outdated
+99faa050b CHANGELOG
+02e1770c2 Merge branch 'weblate-weblate-breezy-weather-breezy-weather-android'
+b0ea3f8af Cut some words as some translators don’t understand the meaning of “short”
+9274bda78 Fix incorrect word Transparency > Opacity
+c7798a63b Implement Chinese/Japanese comma separator (WIP)
+072b4d569 #695 - Temporarily remove "auto" option on live wallpaper
+fd1842b0f Add missing changelog
+a0602a800 [5.0 regression] Fix alerts with no end date missing
+11a6a75d2 Fix #661 - Add alert color icon on alert details page
+38d31730d Merge branch 'weblate-weblate-breezy-weather-breezy-weather-android'
+b03736701 Update contributors
+2b74a7b95 Add shorter translations for current header details
+e3726563f Clarify changelog
+936832710 Fix #300 - Too much padding in content of an alert dialog
+4dc20a149 Cleanup outdated translations
+7d2febaf3 Update dependencies
+e05754e5a Post-translation update
+ab07a847a Merge branch 'weblate-weblate-breezy-weather-breezy-weather-android'
+7acfea91b Remove Google Sans
+b7d9cc782 Fix #677 - Replace ObjectBox with SQLDelight
+83a5d2674 Put current details that couldn’t fit in header in details card
+0fe265c1a Design refresh of current details in header
+6c82f190b Fix #668 - [Widgets] Remove decimals on current temperature
+30eaa9170 Merge branch 'weblate-weblate-breezy-weather-breezy-weather-android'
+91eedf1e5 Change weather sources improvements fix #674 fix #314 fix #443 fix #365
+0ad0213ab [MET Norway] Fix precipitation in the next hour failure
+a2584dc62 Non-free dep clarification
+67326b253 [Location search] Add recommended sources presets depending on country
+024c2956d Complete recommendations
+6fadae3c5 Fix #672 - DMI alerts as 2ndary source + sources clean up
+28c0bb9f9 Compute missing hourly weather symbol/text
+a6bc6db28 Fix #669 - NWS rewrite
+36777711a [China] Add support as a secondary source
+ad31155e4 Migrate China source to Location parameters
+1ee0f152e [NWS] Add reverse geocoding
+6a07a3ac4 Fix #664 - Replace $ keyword with native %s
+c4c27bbeb Fix #631 - Android 14 crash when receiving Today/Tomorrow notification
+cb1686304 Fix #665 - Refresh location parameters when coordinates changed + few string formatting fixes
+bccc0bd2e Update Esperanto translation
+5bbea9086 Update Esperanto translation
+08a5370cc Fix #653 - Restrict searchable locations for country-specific weather sources
+d8698321e [NWS] Add alerts as 2ndary source
+8e1c714e6 Optimize weather requests
+d1565e4d0 Add alerts for DMI source
+03bbe1bf4 Update changelog
+73e7d00fe Fix #146 - Add NWS source + few fixes
+e4568df5f Parameters for location + [AccuWeather] AQI/Pollen/normals as 2ndary source
+e1e811bca Post-translation update
+26415d363 Add recommandations for people interested in radar
+ecf68abed Update dependencies
+b6ff472bb Add Esperanto
+b8ab05ea4 Update Gradle
+fad2dec41 Post-translation update
+db0bc4b01 Translated using Weblate (Macedonian)
+ebb2f4781 Revert "Translated using Weblate (Danish)"
+e61c0540a Translated using Weblate (Persian)
+fbc7debd5 Translated using Weblate (Belarusian)
+ad7c4efcd Translated using Weblate (Romanian)
+fe4fdff29 Translated using Weblate (Dutch)
+1c2bf0e54 Translated using Weblate (Belarusian)
+29b45a9e5 Translated using Weblate (Russian)
+11b07ac97 Translated using Weblate (Romanian)
+8a04e2bae Translated using Weblate (Portuguese)
+9a6a9df9d Translated using Weblate (Finnish)
+569031845 New source: MET Éireann, fix #555
+53f43097b Dmi: WIP warnings
+d03ab2a84 Fix #651 - Missing supportingContent
+5dd3674c4 Update dependencies
+ca7992a2d Fix #649 extended hourly + fix #650 PoP + optimize as secondary
+045806618 Revert "Reduce margin between icon and histogram"
+e0aeee523 Reduce margin between icon and histogram
+997b2b2c1 Remove deprecated properties
+c8d980237 Post-translation update
+ef9d5fb2d New source: DMI
+d3f2692a2 Documentation of SMHI source
+e67d5837d Remove non translatable strings
+f96d2a688 Update action
+1d0d84eea Mark non-translatable strings
+aa8b73268 Update description of app
+a68e06ba9 Post-translation update
+c2d0c6c64 Translated using Weblate (Croatian)
+2155d085a Add new hourly charts and daily feels like chart
+47f59d86a New source: SHSI
+1d2dee1d0 Update dependencies
+adb87ce01 New source: Bright Sky (DWD) + minor fixes
+c1050ede5 ECCC: Fix day/night
+a16ed20f8 Post-translation update
+5757bcc14 Fix #336 - Better precipitation notifications
+d04cae00a Post-translation update
+7d934b5ba Translated using Weblate (Macedonian)
+2146e2b94 Translated using Weblate (Polish)
+427d9bd70 Translated using Weblate (Croatian)
+69298b755 Fix #153 - Add ECCCanada weather source + other fixes
+cdfae31fd Fix #632 - Make weather valid for 1.5 hours when background updates are disabled
+76778fbbb Mark background notifications as unavailable if background updates disabled
+e1fbcad71 Update libraries
+5aa04a870 New cycle
+09fd5fe32 Remove empty translation
+aa41df009 Translated using Weblate (Hindi)
+877dcfd1f Translated using Weblate (Bosnian)
+dcef4c7d8 Translated using Weblate (Slovenian)
+0dcf632b3 Translated using Weblate (Japanese)
+eee116824 Post-translation update
+ef60c43ab Fix #621 - Air quality index > 250
+4dfa5eba3 Improvements and fixes for imperial units
+40c4818ee [MF] Fix normals
+8ead51e18 Update dependencies
+8b75bef56 New cycle
+6540aa4ce Migrate to SDK 34
+c0adab7c8 Add wet bulb computing
+9eb6025e3 Migrate BuildConfig to Gradle Build Files
+3ef52181f Use Material3 version of AboutLibraries
+7a435dd02 Remove empty translation
+85ce1adf5 Translated using Weblate (Swedish)
+80d9ccba2 Translated using Weblate (Turkish)
+c69ed5da5 Update dependencies
+a310593c5 Update changelog
+468f8ec1b Fix #594 - Baidu IP location not working
+ab1fff73a New cycle
+dd53524dd Post-translation update
+2491ac8e5 Update dependencies
+568d5df79 Post-translation update
+aac3888a8 Translated using Weblate (Indonesian)
+ff40c2742 [Open-Meteo] Add 7 days of air quality + Update dependencies
+f8ac291df Update dependencies + remove Mastodon
+467ea9ce2 New cycle
+eacfd8e99 Typo
+2c5eeab78 Post-translation update
+2578530d2 Translated using Weblate (Czech)
+2427e29a4 Update dependencies
+7c0348e6c Fix weather texts after a language change
+d1281b63b Update dependencies
+ef1ffd166 Translated using Weblate (Vietnamese)
+dc6ef0d43 Add Mastodon account
+e53a99788 Post-translation update
+5f3bafb2a Post-translation update
+8a20d886d Update dependencies + Post-translation update
+97436ae94 Fix #534 - Temperature without unit in Notification-Widget
+f5e7ecea2 Update changelog
+20b380c9d Fix #521 - Initial implementation of alert unicity improvement
+c8cc7966c New cycle
+71a183b46 Fix #512 - Fail to refresh when not using (Western) Arabic numbers
+9bfde31ba Post-translation update
+74a32d9de Update Material lib
+c1d8ed8f9 Remove JJWT deprecations, update docs
+5408f9de1 Update Gradle
+b9c3d72af Update dependencies, revert mockk update
+580fc9165 Update changelog
+70084ffb1 Post-translation update
+187506fd5 Update dependencies
+4cebb12e9 [Open-Meteo] Add support for new current
+906be202b Update dependencies
+4c3163c3b Remove debug log
+606d652b3 Implement #474 - Debug icon
+e648ef222 New cycle
+3083318e4 Clean up
+69358dbd9 Fix crash log sharing issues
+3e1d20750 Correctly catch UnknownHostException
+63940d9cf New cycle
+23e02aad1 Catch more network failure
+5d8927cf0 Clarify new string
+6bbac74c5 Fix #258 - Compute weather icon when needed
+c40ff2734 Add credits
+d7c128778 Fix #409
+1493ae737 [Gadgetbridge] Weather spec v4 adjustments
+c3c635794 No longer allow to switch day/night temperature order in widgets to remove a confusion about which night it is about
+f3c5d27e8 Update dependencies & detect default temperature unit from locale
+b28522857 Explicitly mark Android features as non-required
+ba9c7c6e6 Post-translation update
+c9825c01d Post-translation update
+5c1736bcf Another update
+350e87a3f Update dependencies
+4f9478bfd New cycle
+8d6715b49 Post-translation update
+fc40c6abf Fix temperature icon in status bar not displaying if unit is set to Kelvin. Revert Gadgetbridge detection
+b84b08432 Post-translation update
+36908814e Fix #429 - [Open-Meteo] Use pressure at sea level
+7b5325a34 Post-translation update
+2da89bb30 Post-translation update
+903b8175d Add endpoints requirements for weather sources
+d901e602b Clarify additional terms
+e9d2dccde Remove wrong change
+d5955a7a8 Revert rename pollen as allergen
+75a27c78e Update some Kotlin libs
+e85a3bd67 Post-translation update
+44aea0632 Translated using Weblate (Russian)
+a2d104dd9 Update docs
+571bf70a1 Update sources
+a231eeb9a Add a new checkbox to issue templates because some things don’t seem obvious to everyone
+594f50f9b Compile with Android SDK 34
+9dc7dc234 Deleted translation using Weblate (Basque)
+b6cca7d7c [Open-Meteo] Add minutely support
+3557e8aef Latest stable is 4.6.4
+8c5311793 Fix #418 - [Gadgetbridge] Daily forecast starting tomorrow
+56a58fdcc New cycle
+92022f1ad Typo
+41c1a6aae Post-translation update
+4d452091e Fix #397 - Current location unable to refresh if choosing a main source that has no reverse geocoding support
+b0cb1407d #397 - Part 1
+07daccf62 Fix #93 - Add Gadgetbridge support
+13e1d3765 Fix labels
+7e84508bf Add "Needs review" tag on new issues
+846711c27 New cycle
+7c3bb4fd0 Post-translation update
+18b8bcc55 Fix wrong threshold lines name on daily and hourly trends widgets
+aa3f6eb5e Post-translation update
+e8ffb1053 v4.6.2-beta is released
+c7cac6c57 Fix critical issues
+656377513 v4.6.1 is released
+63f12b863 Fix #42 - [MF] Implement Bulletin de suivi and other situation points for alerts
+3ed914324 Project licensed under LGPL 3.0 only We are not allowed to use LGPL 3.0 or later, as clarified with FSF, as even if the Geometric Weather never mentioned which version it wants, it’s implied it’s 3.0-only. If a v4.0 is published some day, we will however be allowed to switch to GPL-3.0 or later as per section 2(b) of LGPLv3
+e66b9dfb4 Fix monochrome icon
+7242b7940 Update changelog
+759f1f299 Post-translation update
+34f59addd Finally bring back more than 24 hours, as new graphs won’t be there before a while
+31a8c8f40 Revert hourly trends to display next 24 hours
+40cbb96d9 Also apply to nogplay
+2ad8ba6c2 Additional fixes
+f62f946fe Fix yesterday/today being mixed since introduction of yesterday
+ceb53a887 Fix #367 - Make alerts always take full width on alerts full page
+944c0de8f Fix #358 - Have different caching duration according to requested data
+b3531ea07 Add decode crash logs instructions
+d03acb84a Post-translation update
+c5088c1b6 Fix #18 - Implement temperature normals
+794e635ba Translated using Weblate (English)
+56fcc1c74 Deleted translation using Weblate (Croatian)
+dc0419e88 Don’t restrict to 24 hours the hourly trends until we have it in daily details view
+5bcfe31b6 Fix some issues + don’t throw an error in background update in some cases to avoid unnecessary spam
+170688b75 Only display next 24 hours in hourly trends
+5550852cb Secondary weather sources will no longer silently fail
+7b98801d9 Fix incorrect alert source leading to crash in some cases
+a82ccd157 Fix #168 - Make swipe location less prone to errors
+70a1a7202 Remove message about future v4.5.0 that is now released
+379426e11 Fix wind direction in hourly trends
+4019e9c45 Fix #301 - Add support for yesterday
+fed6575b8 Fallback to saved data when a secondary weather source fail
+de7321c60 New logo and Breezy Weather identity guidelines
+cd314615b Post-translation update
+f59819216 Initial implementation of better refresh error handling
+902e2b8c8 Post-translation update
+b9d82ee93 Fix clock icon tint on Android versions < 7.0
+a206027a6 Fix #244 - Change location list icon to use multiple place points instead of a bookmark (for "saved" locations)
+ed6802cdd Remove PirateWeather bundled key
+b1203f6bb Improve day / night mode
+f5233bb95 Fix #332 - Air quality/allergen missing if only one of them is from secondary source
+9b770003e Emergency fix #331 for current location not working on sources with reverse geocoding feature.
+e70f50f8c Add undecided label
+5cd082aca Request issues to be written in English, as well as screenshots
+93342b92e Typo
+542dd0f24 Post-translation update
+a39bc817a Fix yesterday lines + adjust hour display on hourly trends
+1985c08c6 Post-translation update
+3e4604cee Translated using Weblate (Chinese (Traditional))
+d556fccd0 Translated using Weblate (Chinese (Traditional, Hong Kong))
+5f2f814f6 Translated using Weblate (Chinese (Simplified))
+756a70e92 Translated using Weblate (Chinese (Simplified))
+97926cd8c Fix #303 - Add Beaufort scale as a possible “unit”
+1f555bbf8 Refactor units
+09318c973 Add abuse prevention mechanism
+89bc7b8e6 Fix #318 - [HERE] Fix weather text
+a3f77916d Fix #307 - Remove "Refresh" shortcut for removed feature
+dfd7225df Fix #310 - Weather sources changes cancelled being remembered on reopening preferences dialog
+3a4a3fb53 Add license notice
+0a57b1fae Fix black live wallpaper on reboot
+1713dab52 Post-translation update
+2f10c9720 Make weather text translations in common between sources
+7bc927165 Fix #286 - Add missing vertical scrolls for phones with small displays on location settings
+b0b4583a1 Fix #299 - Wind direction daily/hourly trends
+ba8824d45 Fix #280 - [OpenWeather] Add more days of air quality
+65f38b3ba 2nd fix for timezone issue
+b33d7a2e2 Fix wrong daytime/nighttime computing on some sources when location timezone is different than device timezone
+cfe7d9ef2 [MET No] Add weather texts
+b01b210c7 Don’t keep old weather data when changing weather source
+4f8a9c206 Fix #295 - some widgets crashed when weather text was missing
+64a237f56 Fix #200 - Allow to change main source for a manually added location
+1425d9c3f Fix AccuWeather not available as secondary weather source
+712a8a794 Post-translation update
+0b044b9c1 Clarify what we expect in the "Version" field
+58c1bc155 Fix #204 - Manual update was required for newly added location
+a64357742 Post-translation update
+1642c4db2 Remove MS Azure (not compliant)
+5ff7c4573 Merge missing location search/reverse geocoding
+c3f599fbb Fix ephemeris for MsAzure
+1d4b63e25 Show main source even if cannot be changed
+814a935dd Typo
+c3ffefdcb 20 km is now converted to the distance unit preference
+2a0b55b97 Prepare to make resident distance dynamic
+47ae8ed3c Add Slovak
+5b950b50e Fix saving current location to database for sources without reverse geocoding
+aafdb5ae7 Clarify more
+8b9f076ed Clarify that "New source" template includes sources other than weather data
+f70a2bc9e Post-translation update
+be4343a0e Fix resident location summary, and trigger new translation
+2b91c99d7 Post-translation update
+8d165eb52 Merge MS Azure
+4018a1365 Fix refresh issue after changing parameters + remove annoying "Updated in background"
+57792e2f6 IP.SB + GeoNames + complete 2ndary sources + Privacy policy Fix #89 - Complete weather data from one provider with another Fix #283 - Allow customize location search source + add GeoNames Fix #249 - Add IP.SB as alternative location service Add Privacy policy activity in About
+b2b4614f4 Remove duplicate setting
+189ee11ab Post-translation update
+b3922201e Secondary weather source implementation almost complete
+68ae8aa04 Fix #276 - AccuWeather weather data refresh failure when using Developer portal
+dd3a86f13 Fix #272 - Allow to customize the default weather source in builds
+60f87d992 Fix #273 - [AccuWeather] Fix allergens card being shown on countries where it is not supported
+436a83ca5 Third Party > Dependencies
+26f943aab Post-translation update
+b77c3911d Fix compilation
+b77e13675 Oops, wrong copy/paste
+1f3679ec6 Add more accuracy suggestions
+3608cab4d Fix #242 - Reverse geocoding sources replace lon/lat
+7515448aa Fix #267 - multiple issues with AccuWeather location search
+c7ca281ae Add aboutLib dependency
+fe4504633 Update technical doc (endpoints for recently added sources)
+1ea48ca0a Implement wind gust in database and display it in daily details
+ae31ed59e Fix Beaufort scale
+223674645 Fix #250 - Save data in meters instead of kilometers in database
+7b003a3ac Use meters as default unit for distance unit in database
+69fe09cdc Open-Meteo air quality/allergen can now be used in other sources (no UI yet)
+cac9cdabd Fix Fog condition
+e928d0ffd Update help documents
+75d455d19 Fix compilation
+7423751d6 Begin implementing interfaces for secondary weather sources
+af178a80a Fix contrast issue on Main screen Allergen card in some cases
+f92f1b0c1 Fix #219 fix #221 - Database issues
+e5882f7ea Keep stars their size and add more of them
+f0e939869 Ignore Suncalc 3.0 update as it requires API 24+
+d01013dde Update changelog
+fae02151b Add rules for new weather sources inclusion
+7e1028da1 Integrate new source
+f20ab4fb6 Update changelog
+b9a1b0a1a Bump version
+91267c0c5 Post-translation update
+800310913 New per-location settings dialog
+e1d541995 Use RGB for colors in weather sources
+31001caae Integrate new weather source
+1b07af09a Make dividers more discrete
+158095697 Update dependencies
+0eeead179 Fix crash on Android < 7.0
+b91ee64d9 Replace app:theme with android:theme
+16b034b9c Fix #11 - [Open-Meteo] Add allergens
+9d3cc66d8 Add new translator
+689bbf201 Translated using Weblate (Chinese (Simplified))
+79609e051 Bug fixing party time! Fix #116 - Alerts are scrolled to bottom when opened Fix #135 - Past alerts shown Fix #166 fix #161 - Top appbar/status bar visibility issues Fix #140 - Cards no longer animated when entering screen Fix #156 - changing icon pack required a full restart of the app Start ObjectBox Admin on demand
+dc9f8715a Fix contrast issue with next hour precipitation graph in light theme
+0f2daef29 Add ObjectBrowser on debug builds
+70d786b16 Add contributor
+93a673370 Don’t force weather refresh when changing language
+2ebe2bd8f Tweak day details
+b1718b76d Forecast hour is valid for the whole hour so don’t take the closest hour
+e8a60fd11 Group background updates by source to prevent too many calls to the same API if an user has many locations from the same source
+f074861c5 Move location and weather settings lower in the list as they are not often changed
+cc497103c Post-translation update commit
+4eb23abf5 Compute windChill + fix search failure when no country
+55e309339 Fix R8
+4dc86e447 Compute dew point if missing and air temperature/humidity available
+29bc8c275 Add Frequently Asked Questions
+bbbce5f52 Complete degree day when missing + fix #176 - don’t show degree day when it’s 0°
+8cbd69589 Fix #212 - Last night of daily forecast is wrong on many sources
+755f00475 Allow nullable sunrise/set for China provider
+89f3afcb2 Bring sun/moon/moon phase to all sources + fix #74 midnight sun/polar night issues
+c2bbb8b17 New translator, clean up translations
+03e51ef91 Update link for SOURCES.md
+dfced1f9b Clean up SOURCES.md document + prefer source term over provider
+5066e3145 Clean up CommonConverter
+787bc10a8 Fix broken day/night temperature in OpenWeather + fix #180
+d637533ad Clean up Wind object
+35ab2e48b Clean up redundant UV data
+34e9b1fe7 Fix #205
+579ce8b88 Fix OpenWeather icons being always daytime
+14ac6d175 Lowercase action buttons
+b92daf4df Fix #201 - Add a “Help me choose” button on weather selection dialogs
+682fb35a2 Fix #202 - Make hourly trends the same height as daily trends
+aa7f9432e Add new type of issue: New source
+d036d9fc4 Remove obsolete asset
+5c0edc185 Bump to 4.3.0 due to breaking changes
+ecb4dd0ad Fix #193 - Weather refreshing would sometimes get stuck
+a1293bead Add translator
+f27e0e9d9 Add boot receiver to help on some non-standard devices
+bfcd8187a Rename “feature request” as “idea”
+9e208cf80 Add last background weather update time in Settings
+4f52562a9 Post-Kotlin 1.9 update
+b0f49701d Add new contributor
+6596d84d7 Fix #192 - Regression fix not refreshing weather data of last known location, Fix #175 - Allow to change weather source for current location directly from location list, Fix #173 - Chinese city search in English
+eaebfa907 Update resident feature to work with a 20 km radius
+fc2d249d8 Bring back translations deleted by Weblate
+82afe8bff Deleted translation using Weblate (Ukrainian)
+e48ef5acb Deleted translation using Weblate (Belarusian)
+d15aa59b7 Try to fix conflicts again
+79abdf226 Add translation contributors
+45fd4b08a Improve degree day display + move source preferences to its own store
+1963f5e1c Fix #178 - Move changelog outside Fastlane
+08ed6c402 Fix #107 - Refactor providers to split location search/reverse geocoding/weather, additionally make it easier to implement a new source
+9d7000449 Add no network error on location search
+181b1f7e3 Translation adjustments
+4fd890484 Fix #170 - Add detailed errors for location search
+ea17fbfa7 Add stale bot
+ec40153d2 Fix #172 - Don’t refresh weather data on every setting change
+9b21c6fa7 Fix widgets were force refreshing weather data + fix #167
+7d4b0f1df Translation adjustments
+a65cc2bb0 Bring back detailed error
+51677cc9a Translation fixes
+c8b639aaa Rename “wind gauge” as “wind strength” to avoid confusion with anemometer
+0b1dbf42c Add lithuanian translation
+abde432f8 Update Gradle to 8.2.1
+c8a7df9cd Fix app bar was not completely disappearing on main screen when scrolling fast
+da1d4783a New background update logic
+50be65b5d Fix incorrect night temperature on OpenWeather and MF providers
+9ef7fa871 Fix #29 - Only display translators of the current language in settings
+b8f3cb8d9 Add new contributors and Bulgarian language
+a8283f310 Fix missing Vietnamese language
+b88539953 Restore scroll behavior from Geometric Weather on main screen + fix #36
+cf8062d49 Fix night icon
+e7e3e3fbc Added translation contributors + translation adjustments
+054045d94 Fix #144 - Contrast issue with alert colors
+2757a2084 Add Nowcast/air quality for MET No + fix #143 + fix #141 + many display fixes for daily/hourly trends
+840f53755 Request a new translation for modified notification permission text
+503de5591 Make alerts more visible fix #79 + change the way notification permission is requested + Location search advices when no results fix #133 + Change location list top bar fix #70 + store data with decimals fix #138 + Add app to IzzyOnDroid + add icon to Fastlane + Update README
+60b41b1ac Fix #130 - Revert let Android 13 users revoke their permissions
+ebd24113f Fix #132 - Fix Chronus icon packs not working
+259d65964 Add more info when tapping on air quality card or specific pollutant + refresh time on cards
+7f37a5246 Add additional settings from Android app info
+501c6dd3f Make Kotlin and Compiler update together on Renovate
+872f2c518 Translation adjustments
+e4ce10d04 Fix #126 - Systematic crash on opening app on Android below R
+2af29ea83 Fix #9 - Don’t add current location on first install + add dialog for notification permission
+94d3a4753 Get rid of Material 2 lib
+0adef3db9 Start new cycle
+9afd8a456 Add new contributor
+16f42ae4c Fix #35 - Update Fastlane
+04f0a478c Get rid of BubbleSeekBar in favor of official Google lib
+a13694669 Add contributor
+d4723e91f Complete Kotlin migration + remove self-forked horizontal ViewPager2 and RecyclerView
+35c534130 More Kotlin migration
+4a5a312cc Remove unmaintained CyanogenMod SDK library
+71bbff4a5 Update Gradle + use catalog library
+6e1fcb41f Fix weather data refresh when hourly temperature is partially available from API
+182c50f49 More Kotlin migration
+eb578cc99 More Kotlin
+7ba92424e Fix sensor always queried + More Kotlin
+842778148 Fix #63 - Wallpaper chooser not opening + fix collapsing after tapping on tile
+c1269a32f Fix #43 - OpenWeather, first letter of weather text is not capitalized
+6cc3ff008 Fix #114 - Don’t open location list when tapping on alerts
+894c7c41a Add new translation contributor
+ea3109c1b Add minutely for China + More Kotlin migration
+f6977608f Update Kotlin to 1.8.22
+6677c4e0c Translation adjustments
+560f19f8a More Kotlin migration
+f9df2e2a9 Translation adjustments
+a33361a43 Migrate more code to Kotlin
+b6c598974 Contributors update
+660b33e21 Fix #41 - Beijing was sometimes added as location
+fe61565b3 Fix #100 - Readability for Update method settings
+8bf92021e Translation adjustments
+877e1ac81 Fix #40 - Declare notification channels
+7c6b59fd9 Add location permissions shortcuts in settings
+bededebb9 WIP new location permissions settings
+8ae2fd1d6 Split location and weather providers settings
+fd9b80528 Lock threads 2 days after they are closed
+02f171d2e Improve network check
+d27bfea62 Remove AMap and Baidu SDK
+d8466b754 Add new translators as contributors
+9b875402a Fix #94 - Crash on daily view when air quality is missing
+4cc84ac2a Replace direction with arrow in wind short descriptions to help a bit in tight spaces
+ed0df640d Fix #91 - Don’t display Details/Live card if there is no data to display
+ef3b389e6 Fix #81 - Could not re-add hourly air quality trend
+705deb58e Translation adjustments
+f76fd3681 Translated using Weblate (English)
+fcefc13d5 Fix #87 - Switches for unavailable settings can be changed
+3ac0d933f Fix #85 - Switch for Persistent notification widget
+ea599eb09 Add small Celsius/Fahrenheit unit for temperature on main screen header
+4b7fe8e4d [Translations] Fix string references
+bb5d4c952 Small addition to a translation
+2237e1e6c Fix wrong message for location search failure
+feeb4eec6 More Kotlin migration
+d88aaa873 Change wording to match Android UI for Notification channel
+6dd0e79aa Fix #57 - Back button in location list
+dabfa3173 Add more Accu settings
+70d1b66a0 Add more debugging settings + various fixes
+ab0257cba Fix #82 - Make widgets reconfigurable on recent Android versions
+bcc335be3 Fix Weblate conflict + add Netocon as pt-BR contributor
+edf8a9d9f Reorganize settings and better wording, fix #8 #81
+9278b9d43 Clean up
+a571369f1 Fix CI
+b83c9d9c1 Optimize screenshots
+3a9ad20bf Move weather providers into one subfolder for each
+591dd1bd0 [Open-Meteo] Add air quality current, hourly and daily
+99d34b0d8 Rename icon main branch
+693d607cf Fix #76 - Update icon packs link
+835609a78 Select 5 screenshots
+738dfd765 Release v4.0.3-alpha
+073539a54 [Accu] Add current, hourly and daily air quality
+76025a7d7 Fix CI
+beb91746f Add more error messages + make API keys secrets
+b08c517d5 Fix details icon color in light mode + empty detail list if all unlisted from header
+d5738f03b Release v4.0.2-alpha
+1f5e55fdb Cleanup icons + fix wrong ones such as #38
+121ae65b8 Make background immersive on launch
+823cf576a Implement #39 - Make current details configurable
+03420b23c Add min7-i as DE translator
+a0f70c4b0 Fix #37 - Refresh time not updating
+3e464cf18 Release v4.0.1-alpha
+9d8a853e6 Fix #65 - Vertical alignment of texts next to icons
+c7116825c Update README
+c797eab26 Complete preparing translation files for integration with Weblate
+b3504bebb [Translation] Migrate zh-rCN, zh-rHK arrays.xml to strings.xml
+d0986da29 [Translation] Migrate pr-rBR, ru, sl-rSI arrays.xml to strings.xml
+d32757e80 Fix monochrome icon
+e0f5e2a86 [Translation] Migrate ja, ko, nl, pl, pt arrays.xml to strings.xml
+c5cc49e84 [Translation] Migrate ar, el, es, fi, it arrays.xml to strings.xml
+55f1204d8 [Translation] Migrate ca, cs, de, ro arrays.xml to strings.xml
+dd61b0124 Fix #56 - Background animation and gravity sensor settings require a restart
+f644e8534 Reduce thickness of dividers on homepage header
+05fcde936 Optimize new PNG icons
+d84eb01e6 Use a different applicationId for debug versions
+1bf3bc22a Add details about processing of location and package listed
+305c49abd Typo
+e73f69c01 Add privacy policy
+d99170372 Attempt to fix workflow
+01aea30fc Retrigger build with tag
+e1ad2f7dd Add GitHub action for releases
+4db03a43b Update translations, remains a few arrays to migrate
+84cb5603f Fix configuration of some widgets
+a3b854188 Update icon
+da70285ed Fix minutely minutes with AccuWeather
+723881e30 Move future features in GitHub issues
+b9f00f9e1 New design for header of homepage
+a2a7a1a72 Reorder issue/FR
+4e1bd0199 Fix artifacts + introduce issue templates
+9fd373450 Fix duplication of current position
+61f14dd56 Update GitHub actions
+ec9c06546 Start reorganizing translations
+57c136eff Cleanup full qualified names
+322bb7bae Icon provider fix
+e157d9fb8 Cleanup, prepare reorg of translation files
+6749b00cf New icon
+ceacb6044 Cleanup, remove Bugly
+4ae9d8786 Rename applicationId
+1251b6047 Rename main branch
+7864109ef Fork becomes Breezy Weather + location redesign
+8409d07c6 Fix crash on release builds
+6a17a810d Avoid refreshing when not located + fix zh languages + Update Gradle files
+e9053a0f5 Fix Chinese city search + get rid of Gson
+09932be62 Migrate China provider to Kotlin
+83177fdcc Fix infinite loop when failing to find current position
+0d6752681 Migrate AccuWeather to Kotlin + fix current position weather source
+f7c6acea3 Migrate MetNo to Kotlinx.serialization
+b19cb0468 Convert MetNo to Kotlin and complete/fix data
+e674485d6 Refactor database classes
+c9bb0b7e1 Alerts: add end time + various improvements
+7bd90e307 OpenWeather: add minutely
+9f2802d96 More Kotlin conversion
+80f0039c5 Fix null safety in widgets
+0ab6428f3 Replace Glide with Coil
+c2ab5962d Fix back icon in RTL languages
+c6b2d6795 Wallpaper: fix switching background animation preference
+b62f29cf8 Wallpaper: fix orientation change + apply background animation preference
+4422b7f6a OpenWeatherMap is now compatible with 2.5 or 3.0 keys
+1f728d8b1 Greatly improve OpenWeatherMap provider data conversion
+d7a8438c4 Add ability to choose OpenWeatherMap v3.0
+13f5068ec Replace all AQIs with Plume AQI
+17e3cce70 More Kotlin migration with Kotlinx.Serializer + fix alert type MF provider + complete weather providers document
+b2d5890aa Fix crash on MET Norway
+5093f42b3 Make AQI algorithms more robust + more Kotlin conversions + bug fixes
+f1397bf80 Open-Meteo: complete more data + migrate more to Kotlin
+e08e4542d Add initial support for Open-Meteo weather provider
+e639efb00 Fix #356 #379 - Handle dates in their correct timezone
+aa86b35e9 Fix #349 #484 - Allow to disable background animation, honors accessibility settings by default
+a39a890a6 Fix crash with AMap + update Baidu_LBS to V0.0.58_2048
+f0805576a Code cleanup
+e463993c2 Enable R8 full mode
+7ec9c8abc Optimize Proguard rules
+47fbe48ad Migrate to Non-Transitive R Classes
+70c74b6a8 Don’t use colors from BubbleSeekBar dependency
+f55846cd2 Get rid of Jetifier
+dfa50fb31 Add translation contributor
+f6c21b50a BC: Migrate from GreenDAO to ObjectBox, by the same GreenRobot team
+057ce851b Remove deprecated jcenter() repo
+9e7cd0fc9 Fix #211 #309 #483 - Don’t put a space between number and degree when the unit doesn’t mention C or F
+6825c45ea Add a preference to choose between AQI (United States) and EAQI (Europe)
+7c1f445d1 Add contributors
+59bd5ffa7 Fix #473 - Crash when adding back trend cards
+f2373ac30 Fix #474 - Add moonrise and moonset to OpenWeather provider
+4187cde96 Fix #481 - [MD3] Use switches instead of checkboxes
+43b1bf218 Fix #482 - Air quality in dark mode
+03c7a657c Update dependencies (major upgrades)
+536da925c Update dependencies, no unstable versions anymore
+43c7e8adb Fix crash when refresh error is not an HTTP error
+968ea2186 [MF] Fix crash if no polluant hourly data
+01fd3b70a Update dependencies
+6afc39adb Remove unsecure connections (all traffic is HTTPS now)
+1abcee586 Code cleanup, mainly remove obsolete SDK checks
+bcd01f13f Import cleanup
+5cc11d875 Fix #216
+fba3a3ff0 Improve network check
+5526360b9 [MetNo] Fix crashes due to missing sunset information
+d01dd3e69 [MF] Avoid crashing because of null values
+a4e45c520 Optimize monochrome icon
+c511f1ac4 Languages: Add Suomi (fi)
+9480f0868 Languages: add Ind+Cat and sort all languages
+b21bd426a [Accu] Allow alerts to have missing information, fix #454
+a6e524a42 [MF] Migrate to new API
+2b9a0a98c [MF] Add back days where there is no hourly data
+f3f5338a2 Add API unauthorized error message
+091900740 [MF] Backport fixes from MET Norway provider
+09c5d13d3 Implement MET Norway weather provider
+71ab03c2d Add features comparison of weather providers
+31fac056a [MF] Fix rain intensity
+5d072f9b5 Fix CI
+656d52368 Optimize all png with optipng -o7 -zm1-9 -strip all (Credits to @HiFiiDev for the idea)
+0fae3df10 Update location list + current location icons
+b142e5eee Handle "Too many requests" status code and inform user they can add their own API key
+c5043715a [MF] Make sure we retrieved 24 hours in a day to calculate mean value
+16067066a [MF] Fix calculation of PM2.5 and PM10
+ebb1e26e1 Fix Air Quality with Météo-France + update French names for indexes as per the latest ATMO European specification
+cbc2c919a Fix unit test
+721114f7b Fix visibility
+ad011ca20 Add default text if there is no custom key
+6188b84c9 Fix #265
+50fbedb6b Providers configuration: fix #67, fix #116, fix #152, fix #222
+88be0257f Fastlane: add changelog for 30010
+74ab98f92 Fastlane: Changelog for 30009
+41a0ddbe6 Fastlane: add changelog for 30008
+8107edd4a Fastlane: add permissions information, add French translation, add changelog
+91aa5410b French: index > indice
+6d0faff4f Fix capital letter on notification + French fixes
+af723d39c OpenWeather: Fix air pollution + Add rain/snow to current
+753ea5caf New weather provider: OpenWeatherMap
+f170836de French: Revert tomorrow for consistency with today
+f77294812 French: Other fixes requested
+7d70f9492 Fix Spanish translation
+5f2b493ea French: Shorten precipitation alert notification
+2a5bf099f French: better wording on some strings, thanks to @ldmpub
+ea5987d26 Fix for #195 as provided by @RemyL
+563c51866 [MF] Fix current wind level
+03098d0ae Remove logs
+163629e4f [MF] Fix: current wind was 3.6 times lower than expected
+4ba38d51c [MF] Fix: Remove yesterday data which were fake (data from today)
+3c0a29204 [MF] Add daily wind and clouds
+319c95430 Fix: Don’t display days where either min or max temperature is missing
+545675e29 [MF] Fix crash if API gives us null for temperature
+d92bd334d WIP: simplify permissions
+60fc73df5 Add daily precipitation
+2f9a5731e Revert daily precipitation which are actually half days
+88d6c6553 Fix daily and hourly precipitation
+6a93655d2 Use HTTPS with AccuWeather
+966972b5e Update French translation for v3.000
