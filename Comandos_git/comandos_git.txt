@@ -7,4 +7,5 @@ $ git log --shortstat --pretty="%H" --since="1 year ago"  --no-merges | awk '/fi
 $ git log --pretty=format: --name-only --no-merges | sort | uniq -c | sort -nr | head -20 | tee files-churn.txt  #Arquivos com mais mudanças
 $ $ git log --name-only --pretty=format: | grep -v '^$' | sort | uniq -c | sort -nr       #Arquivos em ordem cronológica e analisa quantas vezes ele foi modificado após uma mudança inicial.
 $ git shortlog -s -n --all #Commits por usuários
-git log --author="julien.papasian@gmail.com" --oneline > commits_julien_papasian.txt # Commits de um usuário específicos
+$ git log --author="julien.papasian@gmail.com" --oneline > commits_julien_papasian.txt # Commits de um usuário específicos
+$ git log --shortstat --pretty="%H" --since="1 year ago" --author="René Dudfield" --no-merges | awk '/files changed/ {inserted+=$4; deleted+=$6} END {print "Inserções: " inserted "\nExclusões: " deleted}' #Inclusões e exclusões de um autor
