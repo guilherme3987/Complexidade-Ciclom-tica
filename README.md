@@ -1,7 +1,6 @@
 # Análise de Produtividade dos Desenvolvedores
 
-Este projeto visa avaliar a mudança na produtividade dos desenvolvedores dentro do repositório [httpie/cli](https://github.com/httpie/cli)
- 
+Este projeto visa avaliar a mudança na produtividade dos desenvolvedores dentro do repositório.https://github.com/breezy-weather/breezy-weather
 # Objetivos
  Desenvolver métricas para medir a produtividade dos desenvolvedores em um repositório Git.
  1. Métrica 1: Mudança de Produtividade de um Desenvolvedor Individual: Essa métrica 
