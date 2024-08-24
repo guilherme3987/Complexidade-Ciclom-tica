@@ -1,0 +1,10 @@
+   3114 
+    315 app/src/main/res/values/strings.xml
+    304 CHANGELOG.md
+    269 app/build.gradle
+    228 app/src/main/res/values-zh-rCN/strings.xml
+    205 app/src/main/res/values-de/strings.xml
+    200 app/src/main/res/values-ru/strings.xml
+    189 app/src/main/res/values-zh-rTW/strings.xml
+    187 app/src/main/res/values-fr/strings.xml
+    172 app/src/main/res/values-ar/strings.xml
