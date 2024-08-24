@@ -5,3 +5,4 @@ $ git shortlog -sn --email --no-merges | head -n 20 | tee users-commit.txt      
 $ git log --pretty=format: --name-only | sort | uniq -c | sort -nr | head -10 | tee file  #Arquivos mais ativos do diretório httpie
 $ git log --shortstat --pretty="%H" --since="1 year ago"  --no-merges | awk '/files changed/ {inserted+=$4; deleted+=$6} END {print "Inserções: " inserted "\nExclusões: " deleted}'  #Inclusões e exclusões
 $ git log --pretty=format: --name-only --no-merges | sort | uniq -c | sort -nr | head -20 | tee files-churn.txt  #Arquivos com mais mudanças
+$ $ git log --name-only --pretty=format: | grep -v '^$' | sort | uniq -c | sort -nr       #Arquivos em ordem cronológica e quantas vezes ele foi modificado após uma mudança inicial.
