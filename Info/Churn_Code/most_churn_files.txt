@@ -1,4 +1,4 @@
-   1785
+   1355
     452 README.rst
     148 CHANGELOG.rst
     118 setup.py
