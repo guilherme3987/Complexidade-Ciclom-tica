@@ -20,7 +20,7 @@ def ler_dados(arquivo):
     return arquivos, quantidades
 
 # Ler os dados do arquivo
-arquivos, quantidades = ler_dados('most_churn_files.txt')
+arquivos, quantidades = ler_dados('C:/Users/guilh/OneDrive/Área de Trabalho/TELP/Complexidade Ciclomatica/Complexidade-Ciclom-tica/Info/Churn_Code/most_churn_files.txt')
 
 # Criar o gráfico
 plt.figure(figsize=(10, 8))
