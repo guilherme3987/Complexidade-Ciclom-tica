@@ -1,0 +1,10 @@
+ 10982 total
+   713 ./MainActivity.kt
+   600 ./MainActivityViewModel.kt
+   524 ./fragments/ManagementFragment.kt
+   523 ./fragments/HomeFragment.kt
+   412 ./adapters/main/holder/PrecipitationNowcastViewHolder.kt
+   408 ./adapters/AqiAdapter.kt
+   318 ./adapters/main/holder/AstroViewHolder.kt
+   284 ./adapters/trend/daily/DailyTemperatureAdapter.kt
+   264 ./adapters/main/holder/AirQualityViewHolder.kt

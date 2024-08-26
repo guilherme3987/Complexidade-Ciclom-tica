@@ -1,0 +1,24 @@
+   1061
+    304 CHANGELOG.md
+    162 app/src/main/res/values/strings.xml
+    160 app/src/main/res/values-fr/strings.xml
+    129 app/src/main/java/org/breezyweather/settings/activities/AboutActivity.kt
+    106 app/build.gradle
+     85 app/src/main/res/values-ro/strings.xml
+     84 app/src/main/res/values-it/strings.xml
+     82 app/src/main/res/values-zh-rCN/strings.xml
+     80 app/src/main/res/values-pt-rBR/strings.xml
+     79 docs/TECHNICAL.md
+     78 gradle/libs.versions.toml
+     78 app/src/main/res/values-ru/strings.xml
+     78 app/src/main/res/values-de/strings.xml
+     77 app/src/main/res/values-cs/strings.xml
+     73 app/src/main/res/values-zh-rTW/strings.xml
+     73 README.md
+     72 app/src/main/res/values-in/strings.xml
+     72 app/src/main/res/values-es/strings.xml
+     72 app/src/main/res/values-ca/strings.xml
+     71 app/src/main/res/values-fi/strings.xml
+     68 docs/SOURCES.md
+     68 app/src/main/res/values-pl/strings.xml
+     68 app/src/main/res/values-ar/strings.xml
