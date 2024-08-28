@@ -9,5 +9,5 @@ $ $ git log --name-only --pretty=format: | grep -v '^$' | sort | uniq -c | sort 
 $ git shortlog -s -n --all #Commits por usuários
 $ git log --author="julien.papasian@gmail.com" --oneline > commits_julien_papasian.txt # Commits de um usuário específicos
 $ git log --shortstat --pretty="%H" --since="1 year ago" --author="René Dudfield" --no-merges | awk '/files changed/ {inserted+=$4; deleted+=$6} END {print "Inserções: " inserted "\nExclusões: " deleted}' #Inclusões e exclusões de um autor
-$ find src_py -name '*.py' -type f -exec wc -l {} + | sort -rn | head -n 10 #Detectando arquivos muito grandes (muitas linhas de código)
+$  find main -name '*.kt' -type f -exec wc -l {} + | sort -rn | head -n 10 #Detectando arquivos muito grandes (muitas linhas de código)
 $ git log --author="julien.papasian@gmail.com" --pretty=format: --name-only | sort | uniq -c | sort -rn #Arquivos mais alterados por JP
